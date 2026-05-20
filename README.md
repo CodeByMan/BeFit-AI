@@ -18,17 +18,6 @@ A modern full-stack fitness tracking platform built with the **MERN stack**. BeF
 
 **BeFit** is a fitness and nutrition tracker designed for users who want one place to manage daily health activity. The app includes authentication, user dashboards, role-based admin controls, workout logs, food tracking, health calculators, goal management, AI fitness tips, and nutrition lookup support.
 
-### Repository Branding
-
-| Item | Details |
-| --- | --- |
-| **Project name** | BeFit — Fitness Tracker MERN |
-| **Suggested repository name** | `befit-fitness-tracker-mern` |
-| **Owner** | Muhammad Ali Nawaz |
-| **License** | MIT |
-
----
-
 ## ✨ Premium Features
 
 - 🔐 **JWT authentication** with protected user/admin routes
@@ -308,10 +297,21 @@ This repository is prepared with:
 ## 🧑‍💻 Author
 
 **Muhammad Ali Nawaz**  
+MERN Full-Stack Developer
+
 GitHub: [@CodeByMan](https://github.com/CodeByMan)
+
+Built as a MERN final project, BeFit is a fitness tracking web application that helps users manage their workouts, monitor fitness progress, set personal goals, track activity history, and maintain a healthier lifestyle through a clean and practical full-stack experience.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is open-sourced software licensed under the [MIT license](LICENSE).
+
+---
+
+<p align="center">
+  <b>⭐ If you like this project, consider starring the repository!</b>
+</p>
+---
