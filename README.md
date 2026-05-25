@@ -38,8 +38,6 @@ A modern full-stack fitness tracking platform built with the **MERN stack**. BeF
 
 ## 🖼️ Screenshots
 
-> Screenshots are stored in `docs/screenshots/` so they render correctly on GitHub.
-
 ### Home
 
 ![Home Hero](docs/screenshots/homepage.png)
