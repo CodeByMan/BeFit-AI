@@ -40,23 +40,9 @@ A modern full-stack fitness tracking platform built with the **MERN stack**. BeF
 
 > Screenshots are stored in `docs/screenshots/` so they render correctly on GitHub.
 
-### Home / Fitness Experience
+### Home
 
-![Home Hero](docs/screenshots/home-hero.png)
-
-### Dashboard & AI Tools
-
-| Dashboard Preview | AI Calorie Tracker |
-| --- | --- |
-| ![Dashboard Preview](docs/screenshots/dashboard-preview.png) | ![AI Calorie Tracker](docs/screenshots/ai-calorie-tracker.png) |
-
-| TDEE Calculator | AI Tips Assistant |
-| --- | --- |
-| ![TDEE Calculator](docs/screenshots/tdee-calculator.png) | ![AI Tips Assistant](docs/screenshots/ai-tips-assistant.png) |
-
-### Fitness Preview
-
-![Fitness Preview](docs/screenshots/fitness-preview.png)
+![Home Hero](docs/screenshots/homepage.png)
 
 ---
 
@@ -281,27 +267,10 @@ For deployment, configure your host so the backend serves or redirects to the Vi
 
 ---
 
-## 🧹 GitHub Ready Notes
-
-This repository is prepared with:
-
-- A root `.gitignore`
-- MIT `LICENSE`
-- Premium `README.md`
-- GitHub-friendly screenshot paths
-- `backend/.env.example`
-- Excluded `node_modules`, `.env`, build output, logs, cache files, and user uploads
-
----
-
 ## 🧑‍💻 Author
 
 **Muhammad Ali Nawaz**  
 MERN Full-Stack Developer
-
-GitHub: [@CodeByMan](https://github.com/CodeByMan)
-
-Built as a MERN final project, BeFit is a fitness tracking web application that helps users manage their workouts, monitor fitness progress, set personal goals, track activity history, and maintain a healthier lifestyle through a clean and practical full-stack experience.
 
 ---
 
